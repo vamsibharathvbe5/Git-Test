@@ -1,1 +1,2 @@
-This is Git basics
+This is Git basics.
+Now using Git Diff Tool
